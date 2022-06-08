@@ -1,4 +1,4 @@
-# Schedule
+# Schedule (UTC+9)
 
 ### 11th Jun
 * 12:00        Start
